@@ -1,1 +1,16 @@
-{"research_list":[{"name":"DeepSeek","market_position":"Emerging player in the cultural tech sector, focused on spiritual connection products.","future_outlook":"Promising, as it caters to unique cultural needs using technology, potentially expanding its user base globally.","investment_potential":"Moderate to high, contingent on market size and user adoption rates. Innovative niche but needs strong marketing."},{"name":"AMD (Advanced Micro Devices)","market_position":"Strong, leading semiconductor company with significant market share in CPUs and GPUs.","future_outlook":"Expected to grow due to acquisitions and advancements in AI technology, diversifying product offerings.","investment_potential":"High, with solid historical performance and strategic positioning in the advancing AI tech landscape."},{"name":"Various AI Startups","market_position":"Diverse and fragmented, with several startups leading innovation in AI technologies across industries.","future_outlook":"High growth potential as AI adoption increases across multiple sectors, including healthcare, finance, and transportation.","investment_potential":"High yet varies greatly by company; investors should focus on startups with strong leadership and clear market strategy."}]}
+{
+    "research_list": [
+        {
+            "name": "Qualcomm",
+            "market_position": "Qualcomm has a strong position in the premium 5G chipset market with a 44% share and continues to be recognized for its robust market opportunities, such as its dominance in 5G and its expansion into automotive and edge AI markets.",
+            "future_outlook": "Qualcomm is projected to grow earnings and revenue by approximately 2.2% and 2.8% per annum, respectively. Analysts give it a positive outlook with forecasts pointing towards increased IoT revenues and a solid AI potential. For instance, JPMorgan sees a significant upside potential.",
+            "investment_potential": "The stock is considered a strong buy due to its undervaluation and healthy fundamentals, offering a potential upside of around 26.5%. Analysts have set high price targets, reflecting confidence in its future capabilities and innovation."
+        },
+        {
+            "name": "Okta",
+            "market_position": "Okta is recognized as a leader in the Gartner Magic Quadrant for Access Management for consecutive years, maintaining a strong presence in cloud-based security solutions due to increasing demands and rising cyber threats.",
+            "future_outlook": "Okta's future outlook is optimistic, with expected earnings growth of 24.9% per year and revenue growth around 8.8% annually. Its strategic initiatives are aligning well with market trends and are poised for growth.",
+            "investment_potential": "While Okta experienced some setbacks, the company's valuation offers growth potential with price targets recently adjusted upwards by analysts. It remains a solid investment opportunity due to its technological leadership and strong customer positioning."
+        }
+    ]
+}
